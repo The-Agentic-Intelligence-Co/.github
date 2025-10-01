@@ -12,6 +12,8 @@ This organization hosts projects that make AI, automation, and creative tools pr
 - **Virality** – Turn long videos into viral-ready short clips for content creators.  
 - **Dom-Engine** – TypeScript library that converts website DOMs into actionable context for AI browser agents and RPA flows.
 
+> All projects will be released one by one soon, fully open-source.
+
 ## Collaboration
 
 I’m the only contributor right now. If you want to help, here’s how:  
@@ -22,4 +24,7 @@ I’m the only contributor right now. If you want to help, here’s how:
 
 No marketing fluff—if you can code, test, or improve these tools, you can contribute. Every bit helps.
 
-- Luis C.
+---
+
+Luis Chapa  
+Founder, The Agentic Intelligence Co.
