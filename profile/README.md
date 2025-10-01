@@ -7,8 +7,8 @@ This organization hosts projects that make AI, automation, and creative tools pr
 ## Projects
 
 - **VibeMotion** – Generate UI motion graphics videos with AI prompts.  
-- **Eclipse** – Perplexity Comet Alternative. Chrome extension with browser automation, multi-tab chat, and video search & analysis, plus tab management features. Just BYOK.
-- **Walt** – A computer agent that learns workflows through screen-share and voice.
+- **Eclipse** – Chrome extension for browsing automation, multi-tab chat, video search & analysis, and tab management.
+- **Walt** – A computer-use agent that learns workflows through screen-share and voice.
 - **Virality** – Turn long videos into viral-ready short clips for content creators.  
 - **Dom-Engine** – TypeScript library that converts website DOMs into actionable context for AI browser agents and RPA flows.
 
