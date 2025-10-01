@@ -16,7 +16,7 @@ This organization hosts projects that make AI, automation, and creative tools pr
 
 ## Collaboration
 
-I’m the only contributor right now. If you want to help, here’s how:  
+If you want to help, here’s how:  
 
 - Open an **issue** for ideas, bugs, or feature requests  
 - Submit **pull requests** with code, docs, or examples  
