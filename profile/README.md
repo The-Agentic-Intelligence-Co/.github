@@ -22,8 +22,6 @@ If you want to help, here’s how:
 - Submit **pull requests** with code, docs, or examples  
 - Test projects and provide feedback  
 
-No marketing fluff—if you can code, test, or improve these tools, you can contribute. Every bit helps.
-
 ---
 
 <p align="right">
