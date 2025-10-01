@@ -1,4 +1,4 @@
-## Welcome to The Agentic Intelligence Co.
+## The Agentic Intelligence Co.
 
 We build open-source AI tools because advanced technology should be accessible to anyone, not just those who can pay for it.
 
