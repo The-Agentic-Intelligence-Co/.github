@@ -6,11 +6,11 @@ This organization hosts projects that make AI, automation, and creative tools pr
 
 ## Projects
 
-- **VibeMotion** – Generate UI motion graphics videos with AI prompts.  
+- **Walt** – A computer-use agent that learns workflows via screen-share and voice, then runs them for you.
 - **Eclipse** – Chrome extension for browsing automation, multi-tab chat, video search & analysis, and tab management.
-- **Walt** – A computer-use agent that learns workflows through screen-share and voice.
-- **Virality** – Turn long videos into viral-ready short clips for content creators.  
 - **Dom-Engine** – TypeScript library that converts website DOMs into actionable context for AI browser agents and RPA flows.
+- **VibeMotion** – Generate UI motion graphics videos with AI prompts.  
+- **Virality** – Turn long videos into viral-ready short clips for content creators.  
 
 > All projects will be released one by one soon, fully open-source.
 
@@ -26,5 +26,5 @@ If you want to help, here’s how:
 
 <p align="right">
 L. Chapa<br>
-Founder, The Agentic Intelligence Co.
+Founder, Agentic Intelligence Co.
 </p>
