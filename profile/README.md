@@ -27,6 +27,6 @@ No marketing fluff—if you can code, test, or improve these tools, you can cont
 ---
 
 <p align="right">
-Luis Chapa<br>
+L. Chapa<br>
 Founder, The Agentic Intelligence Co.
 </p>
