@@ -2,7 +2,7 @@
 
 We build open-source AI tools because advanced technology should be accessible to anyone, not just those who can pay for it.
 
-This organization hosts projects that make AI, automation, and creative tools practical and usable for creators, developers, and tech enthusiasts.
+This organization hosts projects that make AI, automation, and creative tools practical and usable for creators, developers, and everyone.
 
 ## Projects
 
