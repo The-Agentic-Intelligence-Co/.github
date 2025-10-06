@@ -7,20 +7,21 @@ This organization hosts projects that make AI, automation, and creative tools pr
 ## Projects
 
 - **Dom-Engine** – TypeScript library that converts website DOMs into actionable context for AI browser agents and RPA flows.
-- **Eclipse** – Chrome extension with browser automation, multi-tab chat, video search, and tab management features, just BYOK.  
+- **Eclipse** – Chrome extension for browser automation, multi-tab chat, video analysis, and tab management features, just BYOK.  
 - **VibeMotion** – Generate UI motion graphics videos with AI prompts.  
-- **Walt** – A computer-use AI agent that learns workflows through screen-sharing and voice instructions, then runs them for you.   
-- **Virality** – Turn long videos into viral-ready short clips for content creators.  
+- **Walt** – A computer-use AI agent that learns workflows through screen-sharing and voice guidance, then runs them for you.   
+- **Virality** – Turn long videos into viral-ready short clips for influencers and content creators.  
 
 > Projects are rolling out one by one — all fully open-source.
 
 ## Collaboration
 
-If you want to help, here’s how:  
+We welcome contributions! Here’s how you can get involved:
+- Open an issue for ideas, bugs, or feature requests
+- Submit pull requests with code, documentation, or examples
+- Test projects and provide feedback
 
-- Open an **issue** for ideas, bugs, or feature requests  
-- Submit **pull requests** with code, docs, or examples  
-- Test projects and provide feedback  
+Join us in making AI accessible for everyone! 🚀
 
 ---
 
